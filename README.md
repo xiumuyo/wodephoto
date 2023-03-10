@@ -1,1 +1,1 @@
-**just a personal photo repository.**
+**Just a personal photo repository.**
