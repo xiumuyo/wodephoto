@@ -1,2 +1,1 @@
-# wodephoto
-for PicGo
+**just a personal photo repository.**
